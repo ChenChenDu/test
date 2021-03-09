@@ -1,2 +1,2 @@
 # test
-This is a descirption.
+This is a test repository for kiteAB's video.
